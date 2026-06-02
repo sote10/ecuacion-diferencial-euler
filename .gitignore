@@ -136,6 +136,7 @@ dist
 .pnp.*
 
 # Files generated
+.venv/
 venv/
 __pycache__/
 *.pyc
